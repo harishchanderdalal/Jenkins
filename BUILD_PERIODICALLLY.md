@@ -29,6 +29,4 @@
  │ │ │ │ │                                       7 is also Sunday on some systems)
  │ │ │ │ │
  │ │ │ │ │
- * * * * *  command to execute </pre></code>
-
-Reference link [Cron Wiki](https://en.wikipedia.org/wiki/Cron)
+ * * * * *  command to execute </pre></code
