@@ -30,3 +30,6 @@
  │ │ │ │ │
  │ │ │ │ │
  * * * * *  command to execute </pre></code
+ 
+ # NOTE - H
+ If you use H insted of * then jenkins will check free slot when to run, It's good to remove parallel. Jenkins will remove load distribution the load of job  
