@@ -64,6 +64,7 @@ sudo service apache2 reload
 
 - Hostname 
 
-```bash
+```
+sudo service jenkins start
 cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
